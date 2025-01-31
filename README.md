@@ -32,9 +32,6 @@ To run the notebook, follow these steps:
 git clone https://github.com/yourusername/Tumor-Classification.git
 cd Tumor-Classification
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Open Jupyter Notebook
 jupyter notebook
 ```
