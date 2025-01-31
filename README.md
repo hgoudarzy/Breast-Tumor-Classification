@@ -53,8 +53,8 @@ Our final models achieved the following performance metrics on the test set:
 | Recall      | 92%    | 72%       |
 | F1-score    | 89%    | 77%       |
 
-![DenseNet Results](images/densenet_acc.png)
-![Densenet Confusion Matrix](images/densenet_conf_matrix.png)
+![DenseNet Results](./images/densenet_acc.png)
+![Densenet Confusion Matrix](./images/densenet_conf_matrix.png)
 
 
 ### EfficientNet Results:
@@ -65,8 +65,8 @@ Our final models achieved the following performance metrics on the test set:
 | Recall      | 98%    | 66%       |
 | F1-score    | 91%    | 77%       |
 
-![EfficientNet Results](images/efficientnet_acc.png)
-![Efficientnet Confusion Matrix](images/efficientnet_conf_matrix.png)
+![EfficientNet Results](./images/efficientnet_acc.png)
+![Efficientnet Confusion Matrix](./images/efficientnet_conf_matrix.png)
 
 
 ## 📜 License
