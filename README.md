@@ -11,7 +11,7 @@ The dataset used in this project is the **Breast Ultrasound Images Dataset (BUSI
 - Categories: **Benign, Malignant**
 - Preprocessing: **Resizing, Normalization, Data Augmentation**
 
-![Class Distribution](,/images/class_distribution.PNG)
+![Class Distribution](./images/class_distribution.PNG)
 
 ## 🏗 Implementation
 
