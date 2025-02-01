@@ -4,7 +4,7 @@ This project classifies breast tumors as malignant or benign using deep learning
 
 ## 📊 Dataset
 
-The dataset used in this project is the **Breast Ultrasound Images Dataset (BUSI)**, available on [Kaggle](https://www.kaggle.com/datasets/anaselmasry/datasetbusiwithgt). It contains ultrasound images labeled as benign, malignant, or normal. 
+The dataset used in this project is the **Breast Ultrasound Images Dataset (BUSI)**, available on [Kaggle](https://www.kaggle.com/datasets/anaselmasry/datasetbusiwithgt). It contains ultrasound images labeled as benign, malignant, or normal. The normal class was not used in this project.
 
 ### 📌 Dataset Details:
 - Number of images: **899**
